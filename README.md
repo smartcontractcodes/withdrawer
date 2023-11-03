@@ -1,6 +1,6 @@
 # withdrawer
 
-Golang utility for proving and finalizing ETH withdrawals from op-stack chains.
+Go utility for proving and finalizing ETH withdrawals from op-stack chains.
 
 <!-- Badge row 1 - status -->
 
